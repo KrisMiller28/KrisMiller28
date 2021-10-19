@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @KrisMiller28,
+- 👀 I’m interested in C coding for my course,
+- 🌱 I’m currently learning Mechanical Engineering.
